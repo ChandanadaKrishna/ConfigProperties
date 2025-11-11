@@ -16,7 +16,7 @@ spring:
         url: http://localhost:2222/
   mail:
     host: smtp.gmail.com
-    password: ${MAIL_PASSWORD}
+    password: ieac zszr jvdi wjlu
     port: 587
     properties:
       mail:
@@ -24,7 +24,7 @@ spring:
           auth: true
           starttls:
             enable: true
-    username: ${MAIL_USERNAME}
+    username: krishnachandanada2002@gmail.com
 
 server:
   port: 8089
