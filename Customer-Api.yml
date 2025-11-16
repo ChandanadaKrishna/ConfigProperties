@@ -24,7 +24,7 @@ spring:
           auth: true
           starttls:
             enable: true
-    username: krishnachandanada2002@gmailcom
+    username: krishnachandanada2002@gmail.com
   main:
     allow-circular-references: true
 server:
