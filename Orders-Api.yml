@@ -19,8 +19,8 @@ spring:
       base-path: /ecomm
 razorpay:
   key:
-    id: ${RAZORPAY_KEY_ID}
+    id: rzp_test_mOD8IRgqoi1FwD
   secret:
-    key: ${RAZORPAY_SECRET_KEY}
+    key: TsAhh2r0aZDeATKQ9HJENBL7
 server:
   port: 8081
